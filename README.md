@@ -22,7 +22,7 @@ The input of the model has as shape 256x256x3
 After training the mode is able to predict one of 21 label thank to last dense layer with softmax as activation function. 
 The Trainign was performed going to 50 to 200 epochs and Adam as optimizer.
 
-![alt text](images/network.jpg)
+![alt text](images/network.JPG)
 
 # Transfer Learning(VGG16)
 The transfer learning has been performed by VGG model provided by keras library using weights from imagenet.
