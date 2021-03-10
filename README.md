@@ -7,7 +7,7 @@ Dataset is composed by many images that are satellite imagery. Thus the dataset 
 - Convolution Neural Network
 The result will be represented by confusion matrix and accuracy.
 
-#The dataset 
+# The dataset 
 The images were manually extracted from large images from the USGS National Map Urban Area Imagery collection for various urban areas around the country. The pixel resolution of this public domain imagery is 1 foot.  http://weegee.vision.ucmerced.edu/datasets/landuse.html
 
 ![alt text](images/dataset.png)
